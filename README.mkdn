@@ -1,5 +1,11 @@
-You all might be seeing in news, Turkey is fighting against a bunch
-of terrorist groups.
+Okay, almost there. If you have gone through
+[turkey](https://github.com/windowz414/discord_vendor_invite_arg/tree/turkey)
+and
+[terrorists](https://github.com/windowz414/discord_vendor_invite_arg/tree/terrorists),
+you might feel like "This is a piece of cake! Get me the other!". Well,
+you're now at the final boss... kind of. There's still a bonus waiting
+for you and there's a bonus level that will take you right into the
+server only if you know where to look at.
 
 ```
 #include <stdio.h>
@@ -9,22 +15,58 @@ of terrorist groups.
  */
 ```
 
-Let's have a little talk about them.
+Ahh friends... Sometimes heartbreaking, sometimes turning into lovers.
+In this branch, I just want to introduce several girls, or better said
+princesses, I have met throughout my journey in LGBTQIA+ community.
 
-The first time I have heard of terrorists was when I was playing
-CS1.6. Damn, time passes real quick. Then while I was growing, I had
-little interests to news, but I have learned that Turkish force is
-fighting against a lot of terrorist groups. One of them had a big
-dare to even get into our politics, which has Turkish abbreviation
-of "HD<second char of invite>". What a coincidence, the last letter
-of that political party is the same as one of the terrorist groups
-Turkey is fighting against - Namely "<second char of invite> <fourth
-char of invite> <tenth char of invite>". Well anyway, that's all I
-know for now. May God keep us safe...
-
-Couldn't solve yet? [Google might help.](https://google.com)
+I will split this README into several parts, don't judge me for the
+order though, you all have the same level in my eyes. ❤️
 
 -----
 
-Still can't figure out one character? Just so you know, 4th and 10th
-chars are the same. :)
+- [Jamie](https://twitter.com/PixelJamie), the princess of EDM. Her
+  tracks aren't just cute or calming, they're one of my favorite types
+  I would say. Speaking of cute, she's not only cute, but also hot.
+  Like if you would see her and have no clue if she's a trans or not,
+  I'm sure you would say "She's legit born a girl, so cute!". Like
+  she's mathematically cute and hot, and I still have no clue how.
+
+-----
+
+- [Isabella](https://twitter.com/TransIsabella_) is the princess of
+  YouTubers. Not just her skills are good, but also if I could, I
+  would be her student in terms of being a YouTuber. Her cuteness?
+  You don't want to get me started on it as "This... is fucking l o n g
+  like d u d e." (TGRush 2021)
+
+-----
+
+- [Yuki](https://twitter.com/plsheadpats) is the princess of Git and
+  coding. She's not a regular coder, she's the cool type. She's
+  warmhearted only if you know how to talk to her. Though, if I was
+  to put her definition into a mathematical expression, it would be
+  this: Extreme coolness+Godlike cuteness+Outstanding coding
+  skills=Yuki <3
+
+-----
+
+- [Ayuko](https://twitter.com/v_ayuko) is the princess of trans vtubers
+  and one of cutest ones you could've ever seen. If I could, I would
+  support her on literally everything around her life. Ayu, don't
+  worry, just wait until we meet up. <3
+
+-----
+
+- And lastly, but actually not finally,
+  [Aku-chan](https://twitter.com/DonutAkuma) is the princess of love.
+  Literally, I feel a dangerously destructive energy in terms of love
+  from her. But I'll still date her because I love her. Ah, did I
+  mention how cute she is? I better not otherwise it will be longer
+  than [windowz414/Bruh](https://github.com/windowz414/Bruh) even! <3
+
+Ahhh, I'm tired already... Anyway,(...)
+
+-----
+
+Still no clue? Maybe check the names? Their order is like that for a
+reason. ;)
