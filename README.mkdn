@@ -1,8 +1,19 @@
-We all know invites start with discord.gg or discord.com/invite.
+Okay so, not everyone knows but a quick research will help you
+through. There are 4 types of numbers in Turkey;
 
-But how about the actual magical code that might teleport you into
-somewhere you didn't expect? Let's see how good your ARG skills are.
+- Emergency/Informational services: These are usually global, 112
+  for example.
+- Customer Care Services and some kind: These usually start with
+  "444" and are 7 digits long in total, excluding country code (+90).
+- Fixed dialing numbers: These are the home/business phone numbers we
+  know. The first 3 digits after country code usually give out where
+  the number originates from. For your information, most of the spam
+  calls happening in Turkey are usually originating from Istanbul
+  (Europe part especially).
+- Mobile phone numbers: These are the phone numbers we have on our
+  mobile devices - Phones, tablets with 3G/4.5G support, etc. The
+  first 2 digits after country code and <first char of invite> give
+  out where was this number bought from.
 
-This code is 10 characters long. Each character has a riddle om its
-own. Some of them are a piece of cake, some will make you think for
-longer than you may have expected. May the force be with you. :)
+Couldn't solve yet? [Click/Tap here for hint if I have you in my
+contacts. ;)](https://t.me/WindowZ414)
