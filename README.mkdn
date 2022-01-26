@@ -1,0 +1,8 @@
+We all know invites start with discord.gg or discord.com/invite.
+
+But how about the actual magical code that might teleport you into
+somewhere you didn't expect? Let's see how good your ARG skills are.
+
+This code is 10 characters long. Each character has a riddle om its
+own. Some of them are a piece of cake, some will make you think for
+longer than you may have expected. May the force be with you. :)
