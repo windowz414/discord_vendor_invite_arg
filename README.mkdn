@@ -1,20 +1,3 @@
-Okay, almost there. If you have gone through
-[turkey](https://github.com/windowz414/discord_vendor_invite_arg/tree/turkey)
-and
-[terrorists](https://github.com/windowz414/discord_vendor_invite_arg/tree/terrorists),
-you might feel like "This is a piece of cake! Get me the other!". Well,
-you're now at the final boss... kind of. There's still a bonus waiting
-for you and there's a bonus level that will take you right into the
-server only if you know where to look at.
-
-```
-#include <stdio.h>
-/*
- * PAY ATTENTION! THIS BRANCH MIGHT GIVE OUT MORE THAN ONE CHARACTERS
- * OF THE INVITE!
- */
-```
-
 Ahh friends... Sometimes heartbreaking, sometimes turning into lovers.
 In this branch, I just want to introduce several girls, or better said
 princesses, I have met throughout my journey in LGBTQIA+ community.
@@ -38,6 +21,16 @@ order though, you all have the same level in my eyes. ❤️
   would be her student in terms of being a YouTuber. Her cuteness?
   You don't want to get me started on it as "This... is fucking l o n g
   like d u d e." (TGRush 2021)
+
+- Okay, I'll start talking about it since this is an extended branch
+  anyway. Firstly, the way she talks and the closeness I feel from her,
+  (for your information I'm mostly close to girls) already makes me
+  have huge euphoria. I don't know about her general appearance in
+  real life but if we visited each other, I surely would hug her tight
+  and call her cutie straight up for an hour - Even that wouldn't be
+  enough though. And then the way she comforts me? My heart skips a
+  beat, literally. I can't think of anything else to be honest, but I
+  will add up to here once I find something to say. :>
 
 -----
 
@@ -64,9 +57,6 @@ order though, you all have the same level in my eyes. ❤️
   mention how cute she is? I better not otherwise it will be longer
   than [windowz414/Bruh](https://github.com/windowz414/Bruh) even! <3
 
-Ahhh, I'm tired already... Anyway,(...)
+- TODO: Make a separate branch to describe this. ^
 
------
-
-Still no clue? Maybe check the names? Their order is like that for a
-reason. ;)
+Ahhh, I'm tired already... Anyway...
