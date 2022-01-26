@@ -1,19 +1,30 @@
-Okay so, not everyone knows but a quick research will help you
-through. There are 4 types of numbers in Turkey;
+You all might be seeing in news, Turkey is fighting against a bunch
+of terrorist groups.
 
-- Emergency/Informational services: These are usually global, 112
-  for example.
-- Customer Care Services and some kind: These usually start with
-  "444" and are 7 digits long in total, excluding country code (+90).
-- Fixed dialing numbers: These are the home/business phone numbers we
-  know. The first 3 digits after country code usually give out where
-  the number originates from. For your information, most of the spam
-  calls happening in Turkey are usually originating from Istanbul
-  (Europe part especially).
-- Mobile phone numbers: These are the phone numbers we have on our
-  mobile devices - Phones, tablets with 3G/4.5G support, etc. The
-  first 2 digits after country code and <first char of invite> give
-  out where was this number bought from.
+```
+#include <stdio.h>
+/*
+ * PAY ATTENTION! THIS BRANCH MIGHT GIVE OUT MORE THAN ONE CHARACTERS
+ * OF THE INVITE!
+ */
+```
 
-Couldn't solve yet? [Click/Tap here for hint if I have you in my
-contacts. ;)](https://t.me/WindowZ414)
+Let's have a little talk about them.
+
+The first time I have heard of terrorists was when I was playing
+CS1.6. Damn, time passes real quick. Then while I was growing, I had
+little interests to news, but I have learned that Turkish force is
+fighting against a lot of terrorist groups. One of them had a big
+dare to even get into our politics, which has Turkish abbreviation
+of "HD<second char of invite>". What a coincidence, the last letter
+of that political party is the same as one of the terrorist groups
+Turkey is fighting against - Namely "<second char of invite> <fourth
+char of invite> <tenth char of invite>". Well anyway, that's all I
+know for now. May God keep us safe...
+
+Couldn't solve yet? [Google might help.](https://google.com)
+
+-----
+
+Still can't figure out one character? Just so you know, 4th and 10th
+chars are the same. :)
